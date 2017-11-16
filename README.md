@@ -15,14 +15,14 @@ Send us a PR to list it here! Here's an example:
 
 ### Example Person, Example Library
 
-  http://github.com/example-person/example-library
+http://github.com/example-person/example-library
 
-  Include a quick description of the library
-  and what you'd like to work on at the hack day.
-  Please keep descriptions short.
-  Feel free to link to extra information.
-  We suggest including a link to your issue tracker
-  and highlighting simple issues for newcomers.
+Include a quick description of the library
+and what you'd like to work on at the hack day.
+Please keep descriptions short.
+Feel free to link to extra information.
+We suggest including a link to your issue tracker
+and highlighting simple issues for newcomers.
 
 ### ADD YOUR PROJECTS HERE
 
@@ -35,11 +35,11 @@ so some suggestions may not be taken up on the day.
 
 ### Heiko Seeberger, Whirlwind Tour of Akka Typed
 
-One of the most wanted features for Akka has been type safety for actor messaging. 
-With Akka Typed – which is still experimental – we finally can benefit 
-from the help of the Scala (or Java) compiler. 
-In this workshop we show the current state of Akka Typed using live demos and coding, 
-covering core as well as cluster and persistence features. 
+One of the most wanted features for Akka has been type safety for actor messaging.
+With Akka Typed – which is still experimental – we finally can benefit
+from the help of the Scala (or Java) compiler.
+In this workshop we show the current state of Akka Typed using live demos and coding,
+covering core as well as cluster and persistence features.
 You should have solid knowledge of Scala and at least a basic understanding of Akka.
 
 ### Example Person, Example Workshop, about 30 minutes
