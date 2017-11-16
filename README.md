@@ -2,7 +2,11 @@
 
 Topic and project suggestions for the Scala Exchange Hack Day 2017.
 
-[![Gitter](https://badges.gitter.im/scalax2gether-2017/Lobby.svg)](https://gitter.im/scalax2gether-2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/scalax2gether-2017/Lobby.svg)][link-gitter]
+
+The event is organised by [Skills Matter][link-sm] 
+and sponsored by [Underscore][link-underscore].
+**Sign up for free** from the [Skills Matter web site][link-signup].
 
 We'll arrange a schedule on the day based on what peoples' interests.
 We'll aim to have a mix of hacking and short talks/workshops.
@@ -104,3 +108,8 @@ Let people know if they need laptops and
 provide pointers to setup instructions if required.
 
 ### ADD YOUR PROPOSALS HERE
+
+[link-gitter]: https://gitter.im/scalax2gether-2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+[link-skillsmatter]: https://skillsmatter.com
+[link-underscore]: http://underscore.io
+[link-signup]: https://skillsmatter.com/conferences/9776-scalax2gether-community-day
