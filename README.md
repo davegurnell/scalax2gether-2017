@@ -6,7 +6,8 @@ Topic and project suggestions for the Scala Exchange Hack Day 2017.
 
 The event is organised by [Skills Matter][link-sm] 
 and sponsored by [Underscore][link-underscore].
-**Sign up for free** from the [Skills Matter web site][link-signup].
+
+**Sign up for free** on the [Skills Matter web site][link-signup].
 
 We'll arrange a schedule on the day based on what peoples' interests.
 We'll aim to have a mix of hacking and short talks/workshops.
