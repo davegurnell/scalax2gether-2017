@@ -1,5 +1,7 @@
 # Scala Exchange Hack Day 2017 (Scalax2gether)
 
+[![Join the chat at https://gitter.im/scalax2gether-2017/Lobby](https://badges.gitter.im/scalax2gether-2017/Lobby.svg)](https://gitter.im/scalax2gether-2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Topic and project suggestions for the Scala Exchange Hack Day 2017.
 
 [![Gitter](https://badges.gitter.im/underscoreio/scalax2gether-2017.svg)](https://gitter.im/underscoreio/scalax2gether-2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
