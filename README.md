@@ -2,7 +2,7 @@
 
 Topic and project suggestions for the Scala Exchange Hack Day 2017.
 
-[![Gitter](https://badges.gitter.im/underscoreio/scalax2gether-2017.svg)](https://gitter.im/underscoreio/scalax2gether-2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/scalax2gether-2017/Lobby.svg)](https://gitter.im/scalax2gether-2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 We'll arrange a schedule on the day based on what peoples' interests.
 We'll aim to have a mix of hacking and short talks/workshops.
