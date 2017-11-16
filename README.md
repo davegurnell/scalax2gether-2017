@@ -4,7 +4,7 @@ Topic and project suggestions for the Scala Exchange Hack Day 2017.
 
 [![Gitter](https://badges.gitter.im/scalax2gether-2017/Lobby.svg)][link-gitter]
 
-The event is organised by [Skills Matter][link-sm] 
+The event is organised by [Skills Matter][link-skillsmatter] 
 and sponsored by [Underscore][link-underscore].
 
 **Sign up for free** on the [Skills Matter web site][link-signup].
