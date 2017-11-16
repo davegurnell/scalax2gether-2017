@@ -70,7 +70,7 @@ a small application based on Algebras and Modules
 that can be exposed as an RPC microservice
 supporting Protobuf and Avro serialization protocols.
 
-### Paulo, Learning Scala with Minecraft Mods, about 120 minutes
+### Paulo Siqueira, Learning Scala with Minecraft Mods, about 120 minutes
 
 Minecraft is a very popular game and
 Scala is a very popular language.
