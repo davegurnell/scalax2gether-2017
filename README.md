@@ -96,6 +96,32 @@ which is an Open Source DSL
 on top of MinecraftForge (http://minecraftforge.net/),
 also Open Source.
 
+### Travis Brown, A tour of Typelevel by way of Circe, 90 minutes
+
+In this workshop we will introduce concepts from a range of
+[Typelevel](https://typelevel.org) (and Typelevel-adjacent)
+projects—from [Cats](https://typelevel.org/cats/) to
+[Shapeless](https://github.com/milessabin/shapeless) to
+[Monocle](https://github.com/julien-truffaut/Monocle) to
+[fs2](https://github.com/functional-streams-for-scala/fs2)—while coming up with
+practical solutions to JSON processing problems with [Circe](http://circe.io).
+If you've heard ever about functors or monads or generic programming or lenses
+and wondered "but what are these things _good for_?", this workshop is for you.
+
+### Travis Brown, Circe 1.0 preview and discussion, 60 minutes
+
+We have many improvements and new features in the works for
+[Circe](https://github.com/circe/circe) 1.0, including a more convenient JSON
+representation, better error messages, more options when decoding JSON numbers,
+and—most significantly—a
+[new approach](https://github.com/travisbrown/circe-algebra) to decoding
+that makes it possible to work with alternative formats (like BSON) or other
+libraries' JSON representations, without mapping through `io.circe.Json`.
+
+This session will consist of a short overview of some of these changes,
+followed by time for discussion and feedback from current and potential
+Circe users.
+
 ### Example Person, Example Workshop, about 30 minutes
 
 http://example.com/link-to-external-material-if-applicable
